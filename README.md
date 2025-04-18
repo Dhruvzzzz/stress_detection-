@@ -89,10 +89,4 @@ streamlit run frontend.py
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
----
-
 This project aims to create a more supportive educational environment by addressing the critical issue of student stress, ultimately contributing to better academic outcomes and student well-being. 
